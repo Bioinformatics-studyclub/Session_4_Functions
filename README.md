@@ -1,5 +1,6 @@
 # Session_4_Functions
 
+Launch the Jupyter notebook 
 
 **INSTRUCTIONS:**
 <br>
